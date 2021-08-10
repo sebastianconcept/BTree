@@ -10,5 +10,5 @@ Class {
 { #category : #baselines }
 BaselineOfBTree >> baseline: spec [
 	<baseline>
-	spec for: #common do: [ spec package: 'BTree' ]
+	spec for: #common do: [ spec package: 'Collections-BTree' ]
 ]
